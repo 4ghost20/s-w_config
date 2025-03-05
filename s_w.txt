@@ -1,4 +1,4 @@
-Alright, let's start from scratch, focusing on the core concept of version control and then applying it to different software scenarios.
+
 
 What is Version Control?
 
