@@ -1,0 +1,16 @@
+diff --git a/s_w.txt b/s_w.txt
+index 540783e..8e9749f 100644
+--- a/s_w.txt
++++ b/s_w.txt
+@@ -1,8 +1,11 @@
+ THE WORKING PROJECT
+ 
+ branch commit for test
++<<<<<<< HEAD
+ 
+ What is Version Control??????????
++=======
++>>>>>>> 623ece15c9b33b3e79461e1e7703460e61484f4f
+ 
+ 
+ At its heart, version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It's like having a detailed history of your work, allowing you to:   
